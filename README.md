@@ -2,9 +2,18 @@
 
 🔭 Investigando cuántos pasos erróneos se necesitan para acertar uno. Llevo 228 meses de recopilación de datos y el contador sigue en 0
 
-<p align="center">
-![Estadísticas de Andrew](https://github-readme-stats.vercel.app/api?username=AndrewRP06&show_icons=true&theme=tokyonight&cache_bust=1)
-</p>
+<div align="center">
+
+### 💼 Historial de Cotización
+
+| Empresa | Puesto | Duración | Estado |
+| :--- | :--- | :---: | :--- |
+| Desconocida | Ojalá | 0 | Inactivo |
+| El sofá de mi casa | Analista de Reels | 228 meses | En curso |
+| Directos de Alexelcapo | Crítico de opinión | Infinito | Senior |
+| **Seguridad Social** | **Cotizante** | **0 días** | **Error 404** |
+
+</div>
 <!--
 **AndrewRP06/AndrewRP06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
