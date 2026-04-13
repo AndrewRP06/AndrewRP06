@@ -11,7 +11,7 @@
 | Desconocida | Ojalá | 0 | Inactivo |
 | El sofá de mi casa | Analista de Reels | 228 meses | En curso |
 | **Warhammer 40k** | **Servidor de Datos** | **Eternidad** | **Lobotox** |
-| **Seguridad Social** | **Cotizante** | **Ojala** | **Error 404** |
+| **Seguridad Social** | **Que sera cotizar** | **Ojala** | **Error 404** |
 
 </div>
 <!--
