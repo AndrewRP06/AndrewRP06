@@ -11,7 +11,7 @@
 | Desconocida | Ojalá | 0 | Inactivo |
 | El sofá de mi casa | Analista de Reels | 228 meses | En curso |
 | Directos de Alexelcapo | Crítico de opinión | Infinito | Senior |
-| **Seguridad Social** | **Cotizante** | **0 días** | **Error 404** |
+| **Seguridad Social** | **Cotizante** | **Ojala** | **Error 404** |
 
 </div>
 <!--
