@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 Investigando cuántos pasos erróneos se necesitan para acertar uno. Llevo 228 meses de recopilación de datos y el contador sigue en 0
+
+![Tus stats de GitHub](https://github-readme-stats.vercel.app/api?username=AndrewRP06&show_icons=true&theme=tokyonight)
 <!--
 **AndrewRP06/AndrewRP06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
